@@ -1,0 +1,10 @@
+Cappuccino 2$ 10
+Espresso 3$ 20
+Coffee 5$ 20
+Pepsi 3$ 12
+Fries 5$ 12
+Pizza 50$ 17
+Burger 70$ 10
+Spaghetti 30$ 23
+Tea 2$ 5
+Water 1$ 80

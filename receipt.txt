@@ -1,0 +1,2 @@
+Employee: Asad, Product: Water, Quantity: 2, Total Cost: $2
+Employee: Asad, Product: Spaghetti, Quantity: 3, Total Cost: $90

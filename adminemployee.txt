@@ -1,0 +1,5 @@
+Hassan 200$ 25 counter
+Ali 200$ 21 counter
+Hashim 233$ 34 counter
+Farhan 23$ 23 counter
+Asad 23$ 23 counter

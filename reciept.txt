@@ -1,0 +1,3 @@
+Employee: Asad, Product: Water, Quantity: 2, Total Cost: $2
+Employee: Water, Product: Water, Quantity: 2, Total Cost: $2
+Employee: Water, Product: Pizza, Quantity: 3, Total Cost: $150
